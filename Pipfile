@@ -9,6 +9,7 @@ environs = "*"
 django-crispy-forms = "==1.9.2"
 gunicorn = "*"
 whitenoise = "*"
+django-environ = "*"
 
 [dev-packages]
 
