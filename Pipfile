@@ -5,11 +5,15 @@ name = "pypi"
 
 [packages]
 django = "*"
-environs = "*"
 django-crispy-forms = "==1.9.2"
 gunicorn = "*"
 whitenoise = "*"
-django-environ = "*"
+pipenv = "*"
+dj-database-url = "*"
+dj-email-url = "*"
+decorator = "*"
+django-heroku = "*"
+environs = "*"
 
 [dev-packages]
 
